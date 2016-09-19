@@ -1,2 +1,3 @@
 # kajkoski.github.io
-TES-3 code committed this is fixed 
+TES-1 Variable initialized correctly
+TES-5 Missing code branch implemented 
